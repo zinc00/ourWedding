@@ -1,0 +1,11 @@
+{
+  "name": "ourWedding",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zinc00/ourWedding.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0"}
+}
