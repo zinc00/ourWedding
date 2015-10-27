@@ -1,0 +1,9 @@
+<main>
+    <div>
+      <carousel interval="weddingCtrl.carouselInterval">
+        <slide data-ng-repeat="slide in weddingCtrl.slides" active="slide.active">
+          <img data-ng-src="{{slide.image}}" style="margin:auto;">
+        </slide>
+      </carousel>
+    </div>
+</main>

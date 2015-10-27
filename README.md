@@ -1,2 +1,4 @@
-# ourWedding
-Hosted on Parseapp. The repo to the website of our wedding.
+## Overview
+
+Project for Avi & Rev's wedding.
+Built with WebStarterKit.
