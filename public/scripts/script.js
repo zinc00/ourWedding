@@ -14,17 +14,10 @@
     // end app Controller
 
     // Elements
-    .directive('who', function(){
+    .directive('invitations', function(){
       return {
         restrict: 'E',
-        templateUrl: 'who.html'
-      };
-    })
-
-    .directive('when', function(){
-      return {
-        restrict: 'E',
-        templateUrl: 'when.html'
+        templateUrl: 'invitations.html'
       };
     })
 
@@ -35,17 +28,11 @@
       };
     })
 
-    .directive('howMuch', function(){
-      return {
-        restrict: 'E',
-        templateUrl: 'howmuch.html'
-      };
-    })
 
-    .directive('confirm', function(){
+    .directive('menu', function(){
       return {
         restrict: 'E',
-        templateUrl: 'confirm.html'
+        templateUrl: 'menu.html'
       };
     });
 })();

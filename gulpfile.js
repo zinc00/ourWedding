@@ -5,11 +5,11 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync');
 
-var filesToWatch = ["./app/**/*.*" ];
+var filesToWatch = ["./public/**/*.*" ];
 
 gulp.task('serve', [], function() {
   browserSync.init(null, {
-    server: "./app",
+    server: "./public",
     port: 3000,
     files: filesToWatch,
     browser: ["google chrome"]

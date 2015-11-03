@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Wedding": {
+      "applicationId": "SVtYx8TtTP2EqmkMn9bbX7Q3BaDUYKIOCnb5P3ra"
+    },
+    "_default": {
+      "link": "Wedding"
+    }
+  }
+}
