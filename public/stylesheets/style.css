@@ -242,6 +242,9 @@ main {
   width: 100%;
   height: auto;
 }
+iframe.menu{
+  max-width: 100%;
+}
 
 button.btn {
   background-color: #30B3AB;
